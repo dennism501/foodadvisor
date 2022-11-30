@@ -12,6 +12,7 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "@_sh/strapi-plugin-ckeditor": "^1.1.2",
     "@ckeditor/strapi-plugin-ckeditor": "^0.0.4",
     "@offset-dev/strapi-calendar": "^0.0.8",
     "@strapi/plugin-graphql": "^4.5.0",

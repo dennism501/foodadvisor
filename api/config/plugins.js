@@ -10,5 +10,6 @@ module.exports = ({ env }) => ({
     config: {
       localization: true,
     },
-  }
+  },
+  ckeditor: true
 });
