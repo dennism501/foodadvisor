@@ -23,6 +23,8 @@
     "@webbio/strapi-plugin-scheduler": "^0.1.2",
     "better-sqlite3": "^7.6.2",
     "fs-extra": "^10.0.0",
+    "passport-auth0": "^1.4.3",
+    "passport-okta-oauth20": "^1.1.0",
     "strapi-plugin-cookie-manager": "^1.0.7",
     "strapi-plugin-populate-deep": "^1.1.2",
     "strapi-plugin-sitemap": "^2.0.8",
