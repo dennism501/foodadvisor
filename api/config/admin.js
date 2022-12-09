@@ -23,8 +23,8 @@ module.exports = ({ env }) => ({
             (req, accessToken, refreshToken, extraParams, profile, done) => {
               console.log(req, profile)
               return done(null, {
-                email: profile.email,
-                username: profile.username,
+                email: profile.displayName,
+                username: profile.nickname,
                });
             }
           ),
